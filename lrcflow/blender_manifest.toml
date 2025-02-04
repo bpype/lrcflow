@@ -1,0 +1,32 @@
+schema_version = "1.0.0"
+id = "lrcflow"
+version = "0.1.0"
+name = "lrcflow"
+tagline = "LRC Workflow"
+maintainer = "bpype"
+type = "add-on"
+website = "http://github.com/bpype/lrcflow"
+tags = [
+  "Pipeline",
+  "3D View",
+  "Add Mesh",
+  "Lighting",
+  "Material",
+  "Modeling",
+  "Mesh",
+  "Node",
+  "Object",
+  "Pipeline",
+  "Render",
+  "Scene",
+  "System",
+  "User Interface",
+  "UV"
+]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+permissions.files = "Load and save blend files from disk"
+permissions.clipboard = "Copy and paste error logs"
+copyright = [
+  "2025 bpype.",
+]
